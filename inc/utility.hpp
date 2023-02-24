@@ -29,9 +29,8 @@ namespace ft { // namespace ft
         first_type  first;  // The first value in the 'pair'
         second_type second; // The second value in the 'pair'
 
-    /* Member functions */
-
-        /* Constructor */
+        /* Member functions */
+        /* Constructors */
         /* default */
         pair() : first(), second() {}
         /* copy */
